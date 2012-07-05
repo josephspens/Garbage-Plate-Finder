@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastModified</key>
+	<date>2010-10-10T23:56:47Z</date>
+	<key>restaurants</key>
+	<array>
+		<dict>
+			<key>restaurantID</key>
+			<string>1</string>
+			<key>name</key>
+			<string>Steve T. Hots and Potatoes</string>
+			<key>address</key>
+			<string>2260 Lyell Avenue Rochester, NY 14606</string>
+			<key>url</key>
+			<string>http://www.stevethots.com/</string>
+			<key>rating</key>
+			<string>0</string>
+			<key>location</key>
+			<string>43.1681996,-77.6837254</string>
+			<key>plateName</key>
+			<string>Hots and Potatoes</string>
+			<key>phoneNumber</key>
+			<string>585-429-6388</string>
+			<key>lastUpdate</key>
+			<date>2010-09-27T00:08:42Z</date>
+		</dict>
+		<dict>
+			<key>restaurantID</key>
+			<string>2</string>
+			<key>name</key>
+			<string>Nick Tahou Hots</string>
+			<key>address</key>
+			<string>20 West Main Street Rochester, NY 14608</string>
+			<key>url</key>
+			<string>http://www.garbageplate.com/</string>
+			<key>rating</key>
+			<string>0</string>
+			<key>location</key>
+			<string>43.1587586,-77.6098581</string>
+			<key>plateName</key>
+			<string>Garbage Plate</string>
+			<key>phoneNumber</key>
+			<string>585-436-0184</string>
+			<key>lastUpdate</key>
+			<date>2010-09-27T00:08:45Z</date>
+		</dict>
+		<dict>
+			<key>restaurantID</key>
+			<string>3</string>
+			<key>name</key>
+			<string>Papa Jack&apos;s Grill</string>
+			<key>address</key>
+			<string>261 West Main Street Victor, NY 14564</string>
+			<key>url</key>
+			<string>http://www.papajacksgrill.com/</string>
+			<key>rating</key>
+			<string>0</string>
+			<key>location</key>
+			<string>42.9893036,-77.4148814</string>
+			<key>plateName</key>
+			<string>Garbage Platter</string>
+			<key>phoneNumber</key>
+			<string>585-924-3779</string>
+			<key>lastUpdate</key>
+			<date>2010-09-27T00:08:47Z</date>
+		</dict>
+	</array>
+</dict>
+</plist>
